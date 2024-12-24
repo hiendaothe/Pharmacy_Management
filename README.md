@@ -1,6 +1,4 @@
 # Programing Exercise Report: Pharmacy Management System
-# Team 8
-
 
 ## Table of Contents
 1. [Introduction](#item-one)
