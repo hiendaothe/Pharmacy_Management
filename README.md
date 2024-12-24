@@ -1,4 +1,4 @@
-Pharmacy Management System
+# Pharmacy Management System
 
 ## Table of Contents
 1. [Introduction](#item-one)
